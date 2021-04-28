@@ -1,0 +1,15 @@
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.exe
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csprojAssemblyReference.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.Form1.resources
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\WinFormsApp4\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.genruntimeconfig.cache
